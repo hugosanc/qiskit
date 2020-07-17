@@ -1,4 +1,6 @@
 # qiskit
+[https://qiskit.org/]
+
 Qiskit é uma estrutura open-source para computação quântica. Ele fornece ferramentas para criar e manipular programas quânticos e executá-los em protótipos de dispositivos quânticos no IBM Q Experience ou em simuladores em um computador local fornecidos pela própria empresa IBM. 
 
 Todos arquivos são jupyter notebook onde utiliza-se a linguagem python.
