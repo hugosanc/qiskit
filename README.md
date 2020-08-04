@@ -12,4 +12,5 @@ Arquivos feitos sem edição de texto e de maneira rápida para obter melhor rel
 Arquivos editados onde explora-se de maneira bem direta alguns dos principais circuitos quânticos.
 
 **Códigos** 
+
 Para melhor visualização dos notebooks, é indicado utilizar o [nbviewer](https://nbviewer.jupyter.org/).
