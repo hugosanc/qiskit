@@ -5,10 +5,10 @@ Qiskit é uma estrutura open-source para computação quântica. Ele fornece fer
 
 Todos arquivos são jupyter notebook onde utiliza-se a linguagem python.
 
-### pasta basica
+### basico/
 Arquivos feitos sem edição de texto e de maneira rápida para obter melhor relacionamento com o qiskit.
 
-### pasta algoritmos_quanticos
+### algoritmos_quanticos/
 Arquivos editados onde explora-se de maneira bem direta alguns dos principais circuitos quânticos.
 
 **Códigos** 
